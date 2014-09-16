@@ -25,7 +25,7 @@ The web administrator sets up the field names in buddypress, and the buddypress 
 In fact up to 4 pieces of information that your forum users might want to display.
 
 
-Works with bbpress 2.5.4
+
 
 
 
